@@ -1,2 +1,5 @@
 # Locally retained vect wallpapers
 vect_*
+
+# Original images before 3440x1440 conversion
+originals_backup/
