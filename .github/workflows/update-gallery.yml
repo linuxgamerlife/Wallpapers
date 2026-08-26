@@ -5,10 +5,10 @@ on:
     branches:
       - main
     paths:
-      - "*.jpg"
-      - "*.jpeg"
-      - "*.png"
-      - "*.webp"
+      - "ultrawide/*.jpg"
+      - "ultrawide/*.jpeg"
+      - "ultrawide/*.png"
+      - "ultrawide/*.webp"
   workflow_dispatch:
 
 permissions:

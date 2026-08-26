@@ -15,7 +15,8 @@ from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
-THUMBNAILS = ROOT / "thumbnails"
+WALLPAPERS = ROOT / "ultrawide"
+THUMBNAILS = ROOT / "thumbnails" / "ultrawide"
 MANIFEST = ROOT / ".gallery-manifest.json"
 START_MARKER = "<!-- gallery:start -->"
 END_MARKER = "<!-- gallery:end -->"
@@ -34,7 +35,7 @@ def sha256(path: Path) -> str:
 
 
 def wallpapers() -> list[Path]:
-    matches = [path for path in ROOT.iterdir() if path.is_file() and IMAGE_PATTERN.fullmatch(path.name)]
+    matches = [path for path in WALLPAPERS.iterdir() if path.is_file() and IMAGE_PATTERN.fullmatch(path.name)]
     stems = [path.stem for path in matches]
     if len(stems) != len(set(stems)):
         raise RuntimeError("Multiple wallpaper files use the same numeric identifier")
@@ -72,13 +73,13 @@ def gallery_block(images: list[Path]) -> str:
     for source in images:
         number = source.stem
         entries.append(
-            f'<a href="./{source.name}"><img src="./thumbnails/{number}.webp" '
+            f'<a href="./ultrawide/{source.name}"><img src="./thumbnails/ultrawide/{number}.webp" '
             f'width="240" alt="Wallpaper {number}" title="Wallpaper {number}" /></a>'
         )
     grid = "\n".join(entries)
     return (
         f"{START_MARKER}\n"
-        "## Gallery\n\n"
+        "## Ultrawide Gallery\n\n"
         f"Browse all **{len(images)} wallpapers**, newest first. Select a thumbnail to open the full-resolution image.\n\n"
         '<p align="center">\n'
         f"{grid}\n"
@@ -113,7 +114,6 @@ def expected_manifest(images: list[Path], previous: dict, generate: bool) -> dic
         old = old_images.get(source.name, {})
         valid = (
             old.get("source_sha256") == source_hash
-            and old.get("thumbnail") == thumbnail.relative_to(ROOT).as_posix()
             and thumbnail.exists()
             and old.get("thumbnail_sha256") == sha256(thumbnail)
         )
@@ -184,7 +184,7 @@ def main() -> int:
     args = parser.parse_args()
     images = wallpapers()
     if not images:
-        raise RuntimeError("No four-digit numbered wallpapers found")
+        raise RuntimeError("No four-digit numbered wallpapers found in ultrawide/")
     return check(images) if args.check else generate(images)
 
 
