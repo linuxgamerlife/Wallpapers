@@ -3,3 +3,7 @@ vect_*
 
 # Original images before 3440x1440 conversion
 originals_backup/
+
+# Python cache files created by the gallery generator
+__pycache__/
+*.py[cod]
