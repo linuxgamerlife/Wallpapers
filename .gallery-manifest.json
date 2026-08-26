@@ -1579,11 +1579,6 @@
       "source_sha256": "097d16e7437256884994d3b0d4ec06b58d510272b60ebd3167585fc650198aa5",
       "thumbnail": "thumbnails/ultrawide/0320.webp",
       "thumbnail_sha256": "b1cff98369340734033a7b8de0d798b75c47d00d5538c7ea66d5d37941cfd786"
-    },
-    "0321.jpg": {
-      "source_sha256": "e63565bdbb1d90f3139e51d9f678aa2a4965da3bd68826417d33c42615fb2d77",
-      "thumbnail": "thumbnails/ultrawide/0321.webp",
-      "thumbnail_sha256": "0b11510fb258726ea90a3033b1a9780c88979e2524cdd3fd3809c655f9c6a606"
     }
   },
   "thumbnail_quality": 82,

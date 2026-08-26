@@ -42,10 +42,9 @@ Select the cloned `ultrawide` folder as your wallpaper source in your desktop en
 <!-- gallery:start -->
 ## Ultrawide Gallery
 
-Browse all **317 wallpapers**, newest first. Select a thumbnail to open the full-resolution image.
+Browse all **316 wallpapers**, newest first. Select a thumbnail to open the full-resolution image.
 
 <p align="center">
-<a href="./ultrawide/0321.jpg"><img src="./thumbnails/ultrawide/0321.webp" width="240" alt="Wallpaper 0321" title="Wallpaper 0321" /></a>
 <a href="./ultrawide/0320.jpg"><img src="./thumbnails/ultrawide/0320.webp" width="240" alt="Wallpaper 0320" title="Wallpaper 0320" /></a>
 <a href="./ultrawide/0319.jpg"><img src="./thumbnails/ultrawide/0319.webp" width="240" alt="Wallpaper 0319" title="Wallpaper 0319" /></a>
 <a href="./ultrawide/0318.jpg"><img src="./thumbnails/ultrawide/0318.webp" width="240" alt="Wallpaper 0318" title="Wallpaper 0318" /></a>
