@@ -45,6 +45,7 @@ Select the cloned `ultrawide` folder as your wallpaper source in your desktop en
 Browse all **316 wallpapers**, newest first. Select a thumbnail to open the full-resolution image.
 
 <p align="center">
+<a href="./ultrawide/0321.jpg"><img src="./thumbnails/ultrawide/0321.webp" width="240" alt="Wallpaper 0321" title="Wallpaper 0321" /></a>
 <a href="./ultrawide/0320.jpg"><img src="./thumbnails/ultrawide/0320.webp" width="240" alt="Wallpaper 0320" title="Wallpaper 0320" /></a>
 <a href="./ultrawide/0319.jpg"><img src="./thumbnails/ultrawide/0319.webp" width="240" alt="Wallpaper 0319" title="Wallpaper 0319" /></a>
 <a href="./ultrawide/0318.jpg"><img src="./thumbnails/ultrawide/0318.webp" width="240" alt="Wallpaper 0318" title="Wallpaper 0318" /></a>
@@ -171,7 +172,6 @@ Browse all **316 wallpapers**, newest first. Select a thumbnail to open the full
 <a href="./ultrawide/0195.png"><img src="./thumbnails/ultrawide/0195.webp" width="240" alt="Wallpaper 0195" title="Wallpaper 0195" /></a>
 <a href="./ultrawide/0194.png"><img src="./thumbnails/ultrawide/0194.webp" width="240" alt="Wallpaper 0194" title="Wallpaper 0194" /></a>
 <a href="./ultrawide/0193.jpg"><img src="./thumbnails/ultrawide/0193.webp" width="240" alt="Wallpaper 0193" title="Wallpaper 0193" /></a>
-<a href="./ultrawide/0192.jpg"><img src="./thumbnails/ultrawide/0192.webp" width="240" alt="Wallpaper 0192" title="Wallpaper 0192" /></a>
 <a href="./ultrawide/0191.jpg"><img src="./thumbnails/ultrawide/0191.webp" width="240" alt="Wallpaper 0191" title="Wallpaper 0191" /></a>
 <a href="./ultrawide/0190.png"><img src="./thumbnails/ultrawide/0190.webp" width="240" alt="Wallpaper 0190" title="Wallpaper 0190" /></a>
 <a href="./ultrawide/0189.png"><img src="./thumbnails/ultrawide/0189.webp" width="240" alt="Wallpaper 0189" title="Wallpaper 0189" /></a>
