@@ -42,9 +42,17 @@ Select the cloned `ultrawide` folder as your wallpaper source in your desktop en
 <!-- gallery:start -->
 ## Ultrawide Gallery
 
-Browse all **316 wallpapers**, newest first. Select a thumbnail to open the full-resolution image.
+Browse all **324 wallpapers**, newest first. Select a thumbnail to open the full-resolution image.
 
 <p align="center">
+<a href="./ultrawide/0329.jpg"><img src="./thumbnails/ultrawide/0329.webp" width="240" alt="Wallpaper 0329" title="Wallpaper 0329" /></a>
+<a href="./ultrawide/0328.jpg"><img src="./thumbnails/ultrawide/0328.webp" width="240" alt="Wallpaper 0328" title="Wallpaper 0328" /></a>
+<a href="./ultrawide/0327.jpg"><img src="./thumbnails/ultrawide/0327.webp" width="240" alt="Wallpaper 0327" title="Wallpaper 0327" /></a>
+<a href="./ultrawide/0326.jpg"><img src="./thumbnails/ultrawide/0326.webp" width="240" alt="Wallpaper 0326" title="Wallpaper 0326" /></a>
+<a href="./ultrawide/0325.jpg"><img src="./thumbnails/ultrawide/0325.webp" width="240" alt="Wallpaper 0325" title="Wallpaper 0325" /></a>
+<a href="./ultrawide/0324.jpg"><img src="./thumbnails/ultrawide/0324.webp" width="240" alt="Wallpaper 0324" title="Wallpaper 0324" /></a>
+<a href="./ultrawide/0323.jpg"><img src="./thumbnails/ultrawide/0323.webp" width="240" alt="Wallpaper 0323" title="Wallpaper 0323" /></a>
+<a href="./ultrawide/0322.jpg"><img src="./thumbnails/ultrawide/0322.webp" width="240" alt="Wallpaper 0322" title="Wallpaper 0322" /></a>
 <a href="./ultrawide/0321.jpg"><img src="./thumbnails/ultrawide/0321.webp" width="240" alt="Wallpaper 0321" title="Wallpaper 0321" /></a>
 <a href="./ultrawide/0320.jpg"><img src="./thumbnails/ultrawide/0320.webp" width="240" alt="Wallpaper 0320" title="Wallpaper 0320" /></a>
 <a href="./ultrawide/0319.jpg"><img src="./thumbnails/ultrawide/0319.webp" width="240" alt="Wallpaper 0319" title="Wallpaper 0319" /></a>
