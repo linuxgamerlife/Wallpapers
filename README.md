@@ -19,11 +19,16 @@ The LGL Wallpaper Collection brings together landscapes, science fiction, digita
 
 Looking for more backgrounds? Browse these wallpaper libraries for fresh ideas and new additions to your collection.
 
+Thanks to Smitty for the wallpaper links.
+
 | Source | Best for |
 |---|---|
-| [WallpaperFlare](https://www.wallpaperflare.com/) | A broad mix of high-resolution wallpapers |
+| [Alpha Coders](https://alphacoders.com/) | A broad collection of high-resolution wallpapers |
 | [PixieWall](https://www.pixiewall.com/) | A curated selection of colorful backgrounds |
+| [UHD Paper](https://www.uhdpaper.com/) | UHD and ultrawide desktop wallpapers |
 | [HDQWalls](https://hdqwalls.com/) | HD and ultrawide desktop wallpapers |
+| [Ultrawide Wallpapers](https://ultrawidewallpapers.net/) | Wallpapers designed for ultrawide displays |
+| [Wallpapers Clan](https://wallpapers-clan.com/desktop-wallpapers/) | Desktop wallpapers in varied styles and resolutions |
 
 ---
 
