@@ -19,14 +19,6 @@ The LGL Wallpaper Collection brings together landscapes, science fiction, digita
 
 Looking for more backgrounds? Browse these wallpaper libraries for fresh ideas and new additions to your collection.
 
-<p align="center">
-  <a href="https://www.wallpaperflare.com/"><strong>WallpaperFlare</strong></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.pixiewall.com/"><strong>PixieWall</strong></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://hdqwalls.com/"><strong>HDQWalls</strong></a>
-</p>
-
 | Source | Best for |
 |---|---|
 | [WallpaperFlare](https://www.wallpaperflare.com/) | A broad mix of high-resolution wallpapers |
