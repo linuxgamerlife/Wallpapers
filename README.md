@@ -29,6 +29,10 @@ Thanks to Smitty for the wallpaper links.
 | [HDQWalls](https://hdqwalls.com/) | HD and ultrawide desktop wallpapers |
 | [Ultrawide Wallpapers](https://ultrawidewallpapers.net/) | Wallpapers designed for ultrawide displays |
 | [Wallpapers Clan](https://wallpapers-clan.com/desktop-wallpapers/) | Desktop wallpapers in varied styles and resolutions |
+| [Sweezy Wallpapers](https://sweezy-wallpapers.com/) | Desktop wallpapers in varied styles and resolutions |
+| [WallpapersDen](https://wallpapersden.com/) | High-resolution wallpapers for desktop and mobile |
+| [WallsCloud](https://wallscloud.net/) | Desktop wallpapers in varied styles and resolutions |
+| [Wallpaper-House](https://wallpaper-house.com/) | Desktop wallpapers in varied styles and resolutions |
 
 ---
 
