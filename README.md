@@ -63,9 +63,25 @@ Select the cloned `ultrawide` folder as your wallpaper source in your desktop en
 <!-- gallery:start -->
 ## Ultrawide Gallery
 
-Browse all **349 wallpapers**, newest first. Select a thumbnail to open the full-resolution image.
+Browse all **365 wallpapers**, newest first. Select a thumbnail to open the full-resolution image.
 
 <p align="center">
+<a href="./ultrawide/0371.jpg"><img src="./thumbnails/ultrawide/0371.webp" width="240" alt="Wallpaper 0371" title="Wallpaper 0371" /></a>
+<a href="./ultrawide/0370.jpg"><img src="./thumbnails/ultrawide/0370.webp" width="240" alt="Wallpaper 0370" title="Wallpaper 0370" /></a>
+<a href="./ultrawide/0369.jpg"><img src="./thumbnails/ultrawide/0369.webp" width="240" alt="Wallpaper 0369" title="Wallpaper 0369" /></a>
+<a href="./ultrawide/0368.jpg"><img src="./thumbnails/ultrawide/0368.webp" width="240" alt="Wallpaper 0368" title="Wallpaper 0368" /></a>
+<a href="./ultrawide/0367.jpg"><img src="./thumbnails/ultrawide/0367.webp" width="240" alt="Wallpaper 0367" title="Wallpaper 0367" /></a>
+<a href="./ultrawide/0366.jpg"><img src="./thumbnails/ultrawide/0366.webp" width="240" alt="Wallpaper 0366" title="Wallpaper 0366" /></a>
+<a href="./ultrawide/0365.jpg"><img src="./thumbnails/ultrawide/0365.webp" width="240" alt="Wallpaper 0365" title="Wallpaper 0365" /></a>
+<a href="./ultrawide/0364.jpg"><img src="./thumbnails/ultrawide/0364.webp" width="240" alt="Wallpaper 0364" title="Wallpaper 0364" /></a>
+<a href="./ultrawide/0363.jpg"><img src="./thumbnails/ultrawide/0363.webp" width="240" alt="Wallpaper 0363" title="Wallpaper 0363" /></a>
+<a href="./ultrawide/0362.jpg"><img src="./thumbnails/ultrawide/0362.webp" width="240" alt="Wallpaper 0362" title="Wallpaper 0362" /></a>
+<a href="./ultrawide/0361.jpg"><img src="./thumbnails/ultrawide/0361.webp" width="240" alt="Wallpaper 0361" title="Wallpaper 0361" /></a>
+<a href="./ultrawide/0360.jpg"><img src="./thumbnails/ultrawide/0360.webp" width="240" alt="Wallpaper 0360" title="Wallpaper 0360" /></a>
+<a href="./ultrawide/0359.jpg"><img src="./thumbnails/ultrawide/0359.webp" width="240" alt="Wallpaper 0359" title="Wallpaper 0359" /></a>
+<a href="./ultrawide/0358.jpg"><img src="./thumbnails/ultrawide/0358.webp" width="240" alt="Wallpaper 0358" title="Wallpaper 0358" /></a>
+<a href="./ultrawide/0357.jpg"><img src="./thumbnails/ultrawide/0357.webp" width="240" alt="Wallpaper 0357" title="Wallpaper 0357" /></a>
+<a href="./ultrawide/0356.jpg"><img src="./thumbnails/ultrawide/0356.webp" width="240" alt="Wallpaper 0356" title="Wallpaper 0356" /></a>
 <a href="./ultrawide/0355.jpg"><img src="./thumbnails/ultrawide/0355.webp" width="240" alt="Wallpaper 0355" title="Wallpaper 0355" /></a>
 <a href="./ultrawide/0354.jpg"><img src="./thumbnails/ultrawide/0354.webp" width="240" alt="Wallpaper 0354" title="Wallpaper 0354" /></a>
 <a href="./ultrawide/0353.jpg"><img src="./thumbnails/ultrawide/0353.webp" width="240" alt="Wallpaper 0353" title="Wallpaper 0353" /></a>
