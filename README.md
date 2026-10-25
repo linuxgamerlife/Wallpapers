@@ -65,9 +65,15 @@ Select the cloned `ultrawide` folder as your wallpaper source in your desktop en
 <!-- gallery:start -->
 ## Ultrawide Gallery
 
-Browse all **367 wallpapers**, newest first. Select a thumbnail to open the full-resolution image.
+Browse all **377 wallpapers**, newest first. Select a thumbnail to open the full-resolution image.
 
 <p align="center">
+<a href="./ultrawide/0377.jpg"><img src="./thumbnails/ultrawide/0377.webp" width="240" alt="Wallpaper 0377" title="Wallpaper 0377" /></a>
+<a href="./ultrawide/0376.png"><img src="./thumbnails/ultrawide/0376.webp" width="240" alt="Wallpaper 0376" title="Wallpaper 0376" /></a>
+<a href="./ultrawide/0375.jpg"><img src="./thumbnails/ultrawide/0375.webp" width="240" alt="Wallpaper 0375" title="Wallpaper 0375" /></a>
+<a href="./ultrawide/0374.jpg"><img src="./thumbnails/ultrawide/0374.webp" width="240" alt="Wallpaper 0374" title="Wallpaper 0374" /></a>
+<a href="./ultrawide/0373.png"><img src="./thumbnails/ultrawide/0373.webp" width="240" alt="Wallpaper 0373" title="Wallpaper 0373" /></a>
+<a href="./ultrawide/0372.jpg"><img src="./thumbnails/ultrawide/0372.webp" width="240" alt="Wallpaper 0372" title="Wallpaper 0372" /></a>
 <a href="./ultrawide/0371.jpg"><img src="./thumbnails/ultrawide/0371.webp" width="240" alt="Wallpaper 0371" title="Wallpaper 0371" /></a>
 <a href="./ultrawide/0370.jpg"><img src="./thumbnails/ultrawide/0370.webp" width="240" alt="Wallpaper 0370" title="Wallpaper 0370" /></a>
 <a href="./ultrawide/0369.jpg"><img src="./thumbnails/ultrawide/0369.webp" width="240" alt="Wallpaper 0369" title="Wallpaper 0369" /></a>
@@ -172,6 +178,7 @@ Browse all **367 wallpapers**, newest first. Select a thumbnail to open the full
 <a href="./ultrawide/0270.png"><img src="./thumbnails/ultrawide/0270.webp" width="240" alt="Wallpaper 0270" title="Wallpaper 0270" /></a>
 <a href="./ultrawide/0269.jpg"><img src="./thumbnails/ultrawide/0269.webp" width="240" alt="Wallpaper 0269" title="Wallpaper 0269" /></a>
 <a href="./ultrawide/0268.png"><img src="./thumbnails/ultrawide/0268.webp" width="240" alt="Wallpaper 0268" title="Wallpaper 0268" /></a>
+<a href="./ultrawide/0267.jpg"><img src="./thumbnails/ultrawide/0267.webp" width="240" alt="Wallpaper 0267" title="Wallpaper 0267" /></a>
 <a href="./ultrawide/0266.jpg"><img src="./thumbnails/ultrawide/0266.webp" width="240" alt="Wallpaper 0266" title="Wallpaper 0266" /></a>
 <a href="./ultrawide/0265.jpg"><img src="./thumbnails/ultrawide/0265.webp" width="240" alt="Wallpaper 0265" title="Wallpaper 0265" /></a>
 <a href="./ultrawide/0264.jpg"><img src="./thumbnails/ultrawide/0264.webp" width="240" alt="Wallpaper 0264" title="Wallpaper 0264" /></a>
@@ -188,6 +195,7 @@ Browse all **367 wallpapers**, newest first. Select a thumbnail to open the full
 <a href="./ultrawide/0253.png"><img src="./thumbnails/ultrawide/0253.webp" width="240" alt="Wallpaper 0253" title="Wallpaper 0253" /></a>
 <a href="./ultrawide/0252.png"><img src="./thumbnails/ultrawide/0252.webp" width="240" alt="Wallpaper 0252" title="Wallpaper 0252" /></a>
 <a href="./ultrawide/0251.jpg"><img src="./thumbnails/ultrawide/0251.webp" width="240" alt="Wallpaper 0251" title="Wallpaper 0251" /></a>
+<a href="./ultrawide/0250.jpg"><img src="./thumbnails/ultrawide/0250.webp" width="240" alt="Wallpaper 0250" title="Wallpaper 0250" /></a>
 <a href="./ultrawide/0249.jpg"><img src="./thumbnails/ultrawide/0249.webp" width="240" alt="Wallpaper 0249" title="Wallpaper 0249" /></a>
 <a href="./ultrawide/0248.jpg"><img src="./thumbnails/ultrawide/0248.webp" width="240" alt="Wallpaper 0248" title="Wallpaper 0248" /></a>
 <a href="./ultrawide/0247.jpg"><img src="./thumbnails/ultrawide/0247.webp" width="240" alt="Wallpaper 0247" title="Wallpaper 0247" /></a>
@@ -245,6 +253,7 @@ Browse all **367 wallpapers**, newest first. Select a thumbnail to open the full
 <a href="./ultrawide/0195.png"><img src="./thumbnails/ultrawide/0195.webp" width="240" alt="Wallpaper 0195" title="Wallpaper 0195" /></a>
 <a href="./ultrawide/0194.png"><img src="./thumbnails/ultrawide/0194.webp" width="240" alt="Wallpaper 0194" title="Wallpaper 0194" /></a>
 <a href="./ultrawide/0193.jpg"><img src="./thumbnails/ultrawide/0193.webp" width="240" alt="Wallpaper 0193" title="Wallpaper 0193" /></a>
+<a href="./ultrawide/0192.jpg"><img src="./thumbnails/ultrawide/0192.webp" width="240" alt="Wallpaper 0192" title="Wallpaper 0192" /></a>
 <a href="./ultrawide/0191.jpg"><img src="./thumbnails/ultrawide/0191.webp" width="240" alt="Wallpaper 0191" title="Wallpaper 0191" /></a>
 <a href="./ultrawide/0190.png"><img src="./thumbnails/ultrawide/0190.webp" width="240" alt="Wallpaper 0190" title="Wallpaper 0190" /></a>
 <a href="./ultrawide/0189.png"><img src="./thumbnails/ultrawide/0189.webp" width="240" alt="Wallpaper 0189" title="Wallpaper 0189" /></a>
@@ -273,6 +282,7 @@ Browse all **367 wallpapers**, newest first. Select a thumbnail to open the full
 <a href="./ultrawide/0166.jpg"><img src="./thumbnails/ultrawide/0166.webp" width="240" alt="Wallpaper 0166" title="Wallpaper 0166" /></a>
 <a href="./ultrawide/0165.png"><img src="./thumbnails/ultrawide/0165.webp" width="240" alt="Wallpaper 0165" title="Wallpaper 0165" /></a>
 <a href="./ultrawide/0164.jpg"><img src="./thumbnails/ultrawide/0164.webp" width="240" alt="Wallpaper 0164" title="Wallpaper 0164" /></a>
+<a href="./ultrawide/0163.jpg"><img src="./thumbnails/ultrawide/0163.webp" width="240" alt="Wallpaper 0163" title="Wallpaper 0163" /></a>
 <a href="./ultrawide/0162.png"><img src="./thumbnails/ultrawide/0162.webp" width="240" alt="Wallpaper 0162" title="Wallpaper 0162" /></a>
 <a href="./ultrawide/0161.png"><img src="./thumbnails/ultrawide/0161.webp" width="240" alt="Wallpaper 0161" title="Wallpaper 0161" /></a>
 <a href="./ultrawide/0160.jpg"><img src="./thumbnails/ultrawide/0160.webp" width="240" alt="Wallpaper 0160" title="Wallpaper 0160" /></a>
