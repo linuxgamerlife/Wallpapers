@@ -33,6 +33,8 @@ Thanks to Smitty for the wallpaper links.
 | [WallpapersDen](https://wallpapersden.com/) | High-resolution wallpapers for desktop and mobile |
 | [WallsCloud](https://wallscloud.net/) | Desktop wallpapers in varied styles and resolutions |
 | [Wallpaper-House](https://wallpaper-house.com/) | Desktop wallpapers in varied styles and resolutions |
+| [Wallpaper-cg](https://wallpapercg.com) | Explore thousands of high resolution wallpapers |
+| [Wallpapers Alchemy](https://www.wallpaperalchemy.com) | Explore a Collection of High-Quality Wallpapers |
 
 ---
 
